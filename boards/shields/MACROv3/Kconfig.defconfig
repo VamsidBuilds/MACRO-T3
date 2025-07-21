@@ -1,4 +1,4 @@
-if SHIELD_MACROv3
+if SHIELD_MACROV3
 
 config ZMK_KEYBOARD_NAME
     default "MACROv3"
